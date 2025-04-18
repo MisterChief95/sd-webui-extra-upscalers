@@ -22,7 +22,13 @@ This extension for [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/st
 - The new upscalers will appear in the upscaler selection menu.
 - Select your desired upscaler and process images as usual.
 
-# Configuration
+## Configuration
+
+#### Settings
+
+Adds options to the `Upscaler` settings section to tweak tile size & overlap for each upscaling model.
+
+#### Model Paths
 
 You can set the directory path for each model type individual through command line args. Example:
 
