@@ -1,6 +1,6 @@
 # SD Forge Extra Upscalers
 
-This extension for [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)/[Stable Diffusion Web UI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) adds support for additional upscalers via [Spandrel](https://github.com/chaiNNer-org/spandrel).
+This extension for [Stable Diffusion Web UI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) adds support for additional upscalers via [Spandrel](https://github.com/chaiNNer-org/spandrel).
 
 ## Supported Upscalers
 
@@ -16,7 +16,7 @@ This extension for [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/st
 
 1. Clone this extension into your `extensions/` directory of SD Web UI Forge. Either using the UI or this command:
 ```git
-git clone https://www.github.com/MisterChief95/sd-webui-extra-upscalers.git
+git clone https://www.github.com/MisterChief95/sd-forge-extra-upscalers.git
 ```
 2. Restart the Web UI.
 
