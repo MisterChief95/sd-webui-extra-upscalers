@@ -14,15 +14,21 @@ This extension for [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/st
 
 ## Installation
 
-1. Copy or clone this extension into your `extensions/` directory of SD Web UI Forge.
+1. Clone this extension into your `extensions/` directory of SD Web UI Forge. Either using the UI or this command:
+```git
+git clone https://www.github.com/MisterChief95/sd-webui-extra-upscalers.git
+```
 2. Restart the Web UI.
 
 ## Usage
 
-- The new upscalers will appear in the upscaler selection menu.
+- Any new upscalers from will appear in the upscaler selection menu when added to the appropriate model directory.
 - Select your desired upscaler and process images as usual.
 
 ## Configuration
+
+The default setup requires you to create a new folder in your `models` directory with the same name as the upscaler given above.
+For example, you would create a new folder named `MoESR` in your `models` directory for any MoESR upscaling models.
 
 #### Settings
 
